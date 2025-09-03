@@ -11,8 +11,11 @@ It uses MediaPipe for hand landmark detection, OpenCV for real-time video proces
 This project focuses on:
 
 ✏️ Drawing on the canvas
+
 🧹 Erasing selected areas
+
 🎨 Changing colors
+
 🛑 Clearing the board
 
 This project integrates Computer Vision + Deep Learning + Gesture Control into an interactive AI tool.
@@ -21,7 +24,9 @@ This project integrates Computer Vision + Deep Learning + Gesture Control into a
 📂 Dataset / Model Source
 
 🔹 Hand Tracking Model → MediaPipe Hands Solution
+
 🔹 Gesture Classification Model → Custom CNN trained on hand landmark coordinates
+
 🔹 Input → Live camera feed from OpenCV
 
 
