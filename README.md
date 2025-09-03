@@ -8,7 +8,7 @@ The Gesture-Based Virtual Drawing project is an AI-powered real-time whiteboard 
 It uses MediaPipe for hand landmark detection, OpenCV for real-time video processing, and a CNN-based gesture classification model to recognize finger positions for different actions:
 
 
-This project focuses on:
+This project focuses on :
 
 ✏️ Drawing on the canvas
 
@@ -21,7 +21,7 @@ This project focuses on:
 This project integrates Computer Vision + Deep Learning + Gesture Control into an interactive AI tool.
 
 
-📂 Dataset / Model Source:
+📂 Dataset / Model Source :
 
 🔹 Hand Tracking Model → MediaPipe Hands Solution [Google MediaPipe Hands Solution](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker) 
 
@@ -30,7 +30,7 @@ This project integrates Computer Vision + Deep Learning + Gesture Control into a
 🔹 Input → Live camera feed from OpenCV
 
 
-🎯 Features:
+🎯 Features :
 
 ✅ Real-time hand gesture recognition
 
@@ -45,7 +45,7 @@ This project integrates Computer Vision + Deep Learning + Gesture Control into a
 ✅ Lightweight, fast & accurate
 
 
-🧠 Tech Stack:
+🧠 Tech Stack :
 
 Language → Python 
 Computer Vision → OpenCV
@@ -53,7 +53,7 @@ Hand Tracking → Google MediaPipe Hands Solution
 Deep Learning → Convolutional Neural Network (CNN)
 
 
-🔎 How It Works:
+🔎 How It Works :
 
 1️⃣ Hand Detection 🖐️
 
@@ -80,7 +80,7 @@ If all fingers closed → Color selection
 If five fingers open → Clear board
 
 
-📈 Future Improvements:
+📈 Future Improvements :
 
 * Add multi-hand drawing support ✍️✍️
 
@@ -89,7 +89,7 @@ If five fingers open → Clear board
 * Deploy as a web app using Streamlit or Flask
 
 
-🤝 Contribution:
+🤝 Contribution :
 
 Contributions are welcome! 🎉  
 If you'd like to improve this project, feel free to:
@@ -101,7 +101,7 @@ If you'd like to improve this project, feel free to:
 Your feedback, ideas, and suggestions are always appreciated! 🙌
 
 
-👨‍💻 Author:
+👨‍💻 Author :
 
 Abinnu John Peter.P
 
