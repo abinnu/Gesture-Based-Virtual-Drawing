@@ -55,21 +55,21 @@ Deep Learning → Convolutional Neural Network (CNN)
 
 🔎 How It Works :
 
-1️⃣ Hand Detection 🖐️
+1️⃣ Hand Detection 🖐️ :
 
 Uses MediaPipe Hands to detect 21 key landmarks per hand in real-time.
 
 Calculates finger positions (tip, base, direction).
 
 
-2️⃣ Gesture Classification 🧠 
+2️⃣ Gesture Classification 🧠 :
 
 Extracts landmark coordinates from MediaPipe.
 
 Feeds them into a CNN model for gesture recognition.
 
 
-3️⃣ Drawing Actions 🎨
+3️⃣ Drawing Actions 🎨 :
 
 If index finger is raised → Draw mode 🖊️
 
