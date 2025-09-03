@@ -2,7 +2,7 @@
 
 ✋ Gesture-Based Virtual Drawing 🎨
 
-📌 Overview:
+📌 Overview :
 
 The Gesture-Based Virtual Drawing project is an AI-powered real-time whiteboard application where you can draw on the screen using your hand gestures.
 It uses MediaPipe for hand landmark detection, OpenCV for real-time video processing, and a CNN-based gesture classification model to recognize finger positions for different actions:
