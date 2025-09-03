@@ -62,7 +62,7 @@ Uses MediaPipe Hands to detect 21 key landmarks per hand in real-time.
 Calculates finger positions (tip, base, direction).
 
 
-2️⃣ Gesture Classification 🧠
+2️⃣ Gesture Classification 🧠 
 
 Extracts landmark coordinates from MediaPipe.
 
@@ -91,11 +91,12 @@ If five fingers open → Clear board
 
 🤝 Contribution :
 
-Contributions are welcome! 🎉  
-If you'd like to improve this project, feel free to:
+Contributions are welcome! 🎉, If you'd like to improve this project, Feel free to:
 
-- **Fork** the repository 🍴  
+- **Fork** the repository 🍴
+  
 - **Create a feature branch**  
+
 - **Submit a pull request** 🚀  
 
 Your feedback, ideas, and suggestions are always appreciated! 🙌
