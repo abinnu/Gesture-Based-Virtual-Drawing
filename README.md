@@ -28,10 +28,15 @@ This project integrates Computer Vision + Deep Learning + Gesture Control into a
 🎯 Features
 
 ✅ Real-time hand gesture recognition
+
 ✅ Draw on screen without touching mouse or keyboard
+
 ✅ Color selection using gestures
+
 ✅ Eraser mode & clear screen functionality
+
 ✅ High FPS optimized using OpenCV + MediaPipe
+
 ✅ Lightweight, fast & accurate
 
 
@@ -78,12 +83,9 @@ If five fingers open → Clear board
 * Deploy as a web app using Streamlit or Flask
 
 
-
-
 🤝 Contribution  
 
 Contributions are welcome! 🎉  
-
 If you'd like to improve this project, feel free to:
 
 - **Fork** the repository 🍴  
